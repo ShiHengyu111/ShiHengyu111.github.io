@@ -6,7 +6,6 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-07-25
 venue: 'Journal of Chemical Education'
-slidesurl: 'http://shihengyu111.github.io/files/slides1.pdf'
 paperurl: 'http://shihengyu111.github.io/files/paper1.pdf'
 bibtexurl: 'http://shihengyu111.github.io/files/bibtex1.bib'
 citation: 
