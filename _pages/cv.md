@@ -14,7 +14,6 @@ Education
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, Xiamen University, 2019
-
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -47,11 +46,20 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Projects
+======
+  <ul>{% for post in site.portfolios reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
+
+
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
