@@ -12,11 +12,12 @@ redirect_from:
 Shi Hengyu
 ======
 Tel: +86-135-9624-7681
+
 Email: shy2535686171@gmail.com
 
 Education
 ======
-* M.S. in Finance, Xiamen University, 2026(expected)
+* M.S. in Finance, Xiamen University, 2026 (expected)
 * Double B.S. in Chemistry and Economics, Xiamen University, 2023
 
 Working experience
