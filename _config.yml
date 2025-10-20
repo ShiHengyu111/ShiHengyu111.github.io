@@ -273,7 +273,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: project
+      type: portfolio # 这里改过！！！！！
     values:
       layout: single
       author_profile: true
