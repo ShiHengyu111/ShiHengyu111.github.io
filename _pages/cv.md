@@ -9,12 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+Shi Hengyu
+======
+Tel: +86-135-9624-7681
+Email: shy2535686171@gmail.com
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, Xiamen University, 2019
-Work experience
+* M.S. in Finance, Xiamen University, 2026(expected)
+* Double B.S. in Chemistry and Economics, Xiamen University, 2023
+
+Working experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -51,9 +56,6 @@ Projects
   <ul>{% for post in site.portfolios reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-
-
 
 <!-- Talks
 ======

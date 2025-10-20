@@ -8,7 +8,7 @@ date: 2024-07-25
 venue: 'Journal of Chemical Education'
 paperurl: 'http://shihengyu111.github.io/files/BNOED.pdf'
 bibtexurl: 'http://shihengyu111.github.io/files/BNOED.bib'
-citation: 
+citation: 'Journal of Chemical Education, 2024, 101(8): 3384-3389.'
 ---
 
 Abstract:
