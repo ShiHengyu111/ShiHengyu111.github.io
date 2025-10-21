@@ -1,5 +1,5 @@
 ---
-title: "第二个TA经历"
+title: "零基础Python"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
