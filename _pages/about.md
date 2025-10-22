@@ -9,14 +9,19 @@ redirect_from:
 
 # Self introduction  
 
-- I am a graduate student majoring in finance.
+- I am a graduate student now majoring in finance.
 
 - Currently, I am studying at the School of Economics, Xiamen University, China(985 project).
 
-- This interface stores some of my projects during my graduate years.
+- This interface stores some of my publications and projects during my graduate years.
 
 - Welcome to communicate with me about the content you are also interested in.
 
+
+
+
+
+<!-- 
 <table>
   <tr>
     <td>
@@ -42,29 +47,17 @@ As a rough self-introduction, the table of contents of the following content is 
 
 1. TMFGL
 
-
-
 2. Distributionally Robust Portfolio Optimization with Wasserstein Distance
-
-
 
 3. Microwave-Assisted Synthesis of Solvatochromic Dye and Analysis of Solvent Polarity in Undergraduate Organic Chemistry Laboratory
 
+# 📝Project
 
-
-# 📝Course-Project
-
-1. 社区检测
-
-
-
+1. 网络社区检测
 
 2. 全球资产组合
 
-
-
-
-3. 顾明投资组合
+3. 顾明投资组合 -->
 
 
 

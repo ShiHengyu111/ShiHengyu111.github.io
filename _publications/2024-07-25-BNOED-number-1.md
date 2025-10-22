@@ -3,7 +3,7 @@ title: "Microwave-Assisted Synthesis of Solvatochromic Dye and Analysis of Solve
 collection: publications
 category: manuscripts
 permalink: /publication/2024-07-25-BNOED-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: '文章简介'
 date: 2024-07-25
 venue: 'Journal of Chemical Education'
 paperurl: 'http://shihengyu111.github.io/files/BNOED.pdf'
