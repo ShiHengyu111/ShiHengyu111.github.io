@@ -26,7 +26,7 @@ author:
   avatar           : "shihengyu.jpg"
   name             : "Shi Hengyu"
   pronouns         : "he/him"  
-  bio              : "Xiamen University major in Finance"
+  bio              : "M.S. in Finance \\B.S. in Chemistry and Economics "
   location         : "Xiamen, China"
   employer         : "Xiamen University"
   uri              : # URL
@@ -83,6 +83,8 @@ author:
 publication_category:
   books:
     title: 'Books'
+  drafts:
+    title: 'Working Papers'
   manuscripts:
     title: 'Journal Articles'    
   conferences:

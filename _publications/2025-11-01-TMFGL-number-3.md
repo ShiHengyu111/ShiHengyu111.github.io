@@ -1,7 +1,7 @@
 ---
 title: "TMFGL"
 collection: publications
-category: manuscripts
+category: drafts
 permalink: /publication/2025-11-01-TMFGL-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2025-11-01
