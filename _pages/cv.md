@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Shi Hengyu
+Shi Hengyu (石 恒宇)
 ======
 Tel: +86-135-9624-7681
 
