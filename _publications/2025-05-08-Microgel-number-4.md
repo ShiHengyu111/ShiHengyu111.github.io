@@ -3,7 +3,7 @@ title: "Tunable Wet Adhesion of Sprayable Microgel Glues Driven by a Phase Trans
 collection: publications
 category: manuscripts
 permalink: /publication/2025-05-08-MICROGEL-number-4
-excerpt: 'Served as a Research Assistant of statistic in Prof. Wu Weitai Lab, Assisted Dr. Zhao Ting and Dr. Zhang Haojie in digital signal processing, hypothesis testing, and significance analysis for ongoing experiments.'
+excerpt: 'Provided statistical signal processing and robustness analysis for a polymer microgel–based adhesion system designed for soft, skin-attachable sensors, applying filtering, stationary bootstrap, and nonparametric tests to validate reversible wet adhesion and stable motion-sensing performance reported in ACS Macro Letters.'
 date: 2024-05-08
 venue: 'ACS Macro Letters'
 paperurl: 'http://academicpages.github.io/files/MICROGEL.pdf'
@@ -20,7 +20,7 @@ Contribution
 
 Served as a Research Assistant of statistic in Prof. Wu Weitai Lab, Assisted Dr. Zhao Ting and Dr. Zhang Haojie in digital signal processing, hypothesis testing, and significance analysis for ongoing experiments. Specifically, it includes: 
 
-1. Performed preprocessing of raw experimental signals, including performing FFT-based spectral inspection and applying basic denoising procedures for downstream analysis.
+1. Performed preprocessing of raw experimental signals, including performing filters to denoise and smooth, and applying basic denoising procedures for downstream analysis.
 2. Conducted non-parametric statistical inference (e.g., Wilcoxon rank-sum test) to evaluate adhesive performance under small-sample and non-normal settings
 3. Responded to reviewers’ critiques regarding the statistical significance of hydrogel sensor anti-peeling performance
 
