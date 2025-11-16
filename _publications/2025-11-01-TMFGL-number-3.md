@@ -3,7 +3,7 @@ title: "TMFGL: A Topology-Guided Fused Graphical Lasso for Network-Aware Portfol
 collection: publications
 category: drafts
 permalink: /publication/2025-11-01-TMFGL-number-3
-excerpt: '文章简介'
+excerpt: '展示摘要'
 date: 2025-11-01
 venue:  #'Journal 1'
 slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
