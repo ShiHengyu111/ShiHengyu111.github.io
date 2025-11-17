@@ -3,7 +3,7 @@ title: "Microwave-Assisted Synthesis of Solvatochromic Dye and Analysis of Solve
 collection: publications
 category: manuscripts
 permalink: /publication/2024-07-25-BNOED-number-1
-excerpt: "Developed a microwave-assisted solvatochromic dye experiment into an undergraduate teaching module <b>adopted by Xiamen University’s organic chemistry laboratory curriculum</b>. This project modernized a 26-hour reaction into an 18-minute protocol and created a hands-on framework for teaching data-driven spectral analysis to <b>over 1,000 students</b>, reflecting my long-term commitment to outreach and improving scientific education.<br/><img src='images/publication/BNOED_01.png'>"
+excerpt: "Developed a microwave-assisted solvatochromic dye experiment into an undergraduate teaching module <b>adopted by Xiamen University’s organic chemistry laboratory curriculum</b>. This project modernized a 26-hour reaction into an 18-minute protocol and created a hands-on framework for teaching data-driven spectral analysis to <b>over 1,000 students</b>, reflecting my long-term commitment to outreach and improving scientific education.<br/><img src='../images/publication/BNOED_01.png'>"
 date: 2024-07-25
 venue: 'Journal of Chemical Education'
 paperurl: 'http://shihengyu111.github.io/files/BNOED.pdf'
