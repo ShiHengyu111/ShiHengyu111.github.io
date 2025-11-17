@@ -16,7 +16,7 @@ description              : &description "Shi Hengyu's academic portfolio"   # Up
 url                      : "https://shihengyu111.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://shihengyu111.github.io" # "academicpages/academicpages.github.io" 我也不知道这个是啥。。。先改了再说
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -27,9 +27,9 @@ author:
   name             : "Hengyu Shi"
   pronouns         : "he/him"  
   bio              : "M.S. in Finance, B.S. in Chemistry and Economics "
-  location         : "Xiamen, China"
+  location         : "Xiamen,Fujian, China"
   employer         : "Xiamen University"
-  uri              : # URL
+  uri              : "https://shihengyu111.github.io"
   email            : "shy2535686171@gmail.com" 
 
   # Academic websites
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://shihengyu111.github.io"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
