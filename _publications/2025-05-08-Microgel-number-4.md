@@ -3,7 +3,7 @@ title: "Tunable Wet Adhesion of Sprayable Microgel Glues Driven by a Phase Trans
 collection: publications
 category: manuscripts
 permalink: /publication/2025-05-08-MICROGEL-number-4
-excerpt: 'Provided statistical signal processing and robustness analysis for a polymer microgel–based adhesion system designed for soft, skin-attachable sensors, applying filtering, stationary bootstrap, and nonparametric tests to validate reversible wet adhesion and stable motion-sensing performance reported in ACS Macro Letters.'
+excerpt: "Provided statistical signal processing and robustness analysis for a polymer microgel–based adhesion system designed for soft, skin-attachable sensors, applying filtering, stationary bootstrap, and nonparametric tests to validate reversible wet adhesion and stable motion-sensing performance reported in ACS Macro Letters.<br/><img src='../images/publication/Microgel-02.png' width='300'>"
 date: 2025-05-08
 venue: 'ACS Macro Letters'
 paperurl: 'http://academicpages.github.io/files/MICROGEL.pdf'
