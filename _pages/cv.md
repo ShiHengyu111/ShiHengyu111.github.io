@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Shi Hengyu (石 恒宇)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Shi Hengyu (石 恒宇)
+Contact 
 ======
 Tel: +86-135-9624-7681
+
 Email: shy2535686171@gmail.com
 
 Education
@@ -37,8 +38,10 @@ Education
   * Duties included: Tagging issues
   * Supervisor: Professor Git
    -->
+   
 Languages and Skills
 ======
+
 | **Category** | **Details** |
 |--------------|-------------|
 | **Programming** | Python · R · SQL · LaTeX · Markdown |
