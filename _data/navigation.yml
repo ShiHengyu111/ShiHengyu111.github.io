@@ -20,14 +20,14 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Projects"
-    url: /portfolio/
+  # - title: "Projects"
+  #   url: /portfolio/
 
   - title: "Teaching"
     url: /teaching/    
   
-  - title: "Leadership"
-    url: /leadership/
+  # - title: "Leadership"
+  #   url: /leadership/
     
   - title: "Blog Posts"
     url: /year-archive/
