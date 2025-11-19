@@ -22,7 +22,7 @@ My current research focuses on Portfolio Optimization, particularly distribution
 # "Make Contribution to the Community"
 For me, this motto means helping build a world where **knowledge circulates freely and empowers more people**.
 
-During my undergraduate years, I worked with my classmates and traveled to remote island schools to deliver hands-on chemistry outreach workshops. One of our most creative activities involved using **traditional Chinese knotting** to weave molecular structures—an approach that allowed students to visualize chemistry through an accessible cultural craft. You can see our works here: **[link]**.
+During my undergraduate years, I worked with my classmates and traveled to remote island schools to deliver hands-on chemistry outreach workshops. One of our most creative activities involved using **traditional Chinese knotting** to weave molecular structures—an approach that allowed students to visualize chemistry through an accessible cultural craft. You can see our works here: **[Link](https://shihengyu111.github.io/teaching/2022-08-ChineseKnotting-3)**.
 
 Another one of my proudest achievements is an experiment I designed on synthesizing a solvatochromic dye, a molecule that changes color in different solvents. This project later:
 - became an official teaching module in XMU’s organic chemistry laboratory curriculum (since 2023), and  
