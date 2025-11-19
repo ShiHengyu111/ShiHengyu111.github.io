@@ -18,21 +18,6 @@ I am currently pursuing an M.A. in Finance at the School of Economics, Xiamen Un
 My current research focuses on Portfolio Optimization, particularly distributional robustness and network-based covariance estimation. Beyond finance, I am deeply interested in **statistical structure learning** problems—such as mean field games, causal inference, graphical models, and optimal transport. I also enjoy applying statistical tools to interdisciplinary scientific problems including computational chemistry, neuroimaging, and astronomy. In Feb 2025, I collaborated with **Prof. Weitai Wu** on designing skin-attachable polymer microgel sensors, providing robustness analysis and signal-processing components.
 
 ---
-<!-- 
-# "Make Contribution to the Community"
-For me, this motto means helping build a world where **knowledge circulates freely and empowers more people**.
-
-During my undergraduate years, I worked with my classmates and traveled to remote island schools to deliver hands-on chemistry outreach workshops. One of our most creative activities involved using **traditional Chinese knotting** to weave molecular structures—an approach that allowed students to visualize chemistry through an accessible cultural craft. You can see our works here: **[Link](https://shihengyu111.github.io/teaching/2022-08-ChineseKnotting-3)**.
-
-Another one of my proudest achievements is an experiment I designed on synthesizing a solvatochromic dye, a molecule that changes color in different solvents. This project later:
-- became an official teaching module in XMU’s organic chemistry laboratory curriculum (since 2023), and  
-- won **1st Prize** in the *National Undergraduate Chemistry Innovation Experiment Design Competition*.
-
-In my master’s program, I serve as the **2024–2026 President of WISERCLUB**, one of the largest student-led data science organizations in China. During my term, I expanded interdisciplinary workshops, launched statistical literacy initiatives, and connected hundreds of students with research-oriented learning opportunities.
-
-If you also care about outreach or hope to bring scientific education to more communities, feel free to contact me. -->
-
----
 
 # Recommended Highlights
 *(第二部分标题建议，下面会给你多个可选项)*
