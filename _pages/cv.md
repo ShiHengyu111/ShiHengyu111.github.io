@@ -12,15 +12,15 @@ redirect_from:
 Shi Hengyu (石 恒宇)
 ======
 Tel: +86-135-9624-7681
-
 Email: shy2535686171@gmail.com
 
 Education
 ======
 * M.S. in Finance, Xiamen University, 2026 (expected)
-* Double B.S. in Chemistry and Economics, Xiamen University, 2023
+* B.S. in Chemistry, Xiamen Univeristy, 2023 
+* B.Econ. in Economics, Xiamen University, 2023
 
-Working experience
+<!-- Working experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -36,15 +36,15 @@ Working experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
-Skills
+   -->
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -52,11 +52,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Projects
+<!-- Projects
 ======
   <ul>{% for post in site.portfolios reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 <!-- Talks
 ======
@@ -72,4 +72,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Serves as the president of WISERCLUB. (2024, 2025)
+* Organized university-wide open courses "Python for Beginners" and "Introduction to LLM." (2025 Spring) 
+* Traveled to remote island schools to deliver hands-on chemistry outreach workshops. (2022)
