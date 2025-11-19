@@ -7,39 +7,34 @@ redirect_from:
   - /about.html
 ---
 
-先帮我插入一张图片images/complex_3_cropped.png增加主页的视觉效果。
-后面我计划分成两部分。
-第一部分是# About me其中包含两段。第一段介绍background。第二段介绍目前的研究兴趣。
-第二部分是推荐访问者参观的项目，类似一个map，推荐committee去看我的哪些项目。
-
 <p align="center">
-  <img src="/images/complex_3_cropped.png" style="max-width:70%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" alt="banner">
+  <img src="/images/complex_3_cropped.png" style="max-width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" alt="banner">
 </p>
 
 # About Me
 
-## Background  
-I am currently pursuing an M.A. in Finance at the School of Economics, Xiamen University (expected graduation: June 2026), advised by **Prof. Xiaoling Mei**.  
-Before transitioning to quantitative research, I completed my B.S. in Chemistry (with an additional degree in Economics) at Xiamen University in 2023.
+I am currently pursuing an M.A. in Finance at the School of Economics, Xiamen University (expected graduation: June 2026), advised by **Prof. Xiaoling Mei**. Before transitioning to quantitative research, I completed my B.S. in Chemistry with an dual degree in Economics at Xiamen University in 2023.
 
-## Research Interests  
-My current research focuses on **Portfolio Optimization**, particularly distributional robustness and network-based covariance estimation.  
-Beyond finance, I am deeply interested in **statistical structure learning** problems—such as mean field games, causal inference, graphical models, and optimal transport.  
-I also enjoy applying statistical tools to interdisciplinary scientific problems including computational chemistry, neuroimaging, and astronomy.  
-In Feb 2025, I collaborated with **Prof. Weitai Wu** on skin-attachable polymer microgel sensors, providing robustness analysis and signal-processing components.
+My current research focuses on Portfolio Optimization, particularly distributional robustness and network-based covariance estimation. Beyond finance, I am deeply interested in **statistical structure learning** problems—such as mean field games, causal inference, graphical models, and optimal transport. I also enjoy applying statistical tools to interdisciplinary scientific problems including computational chemistry, neuroimaging, and astronomy. In Feb 2025, I collaborated with **Prof. Weitai Wu** on designing skin-attachable polymer microgel sensors, providing robustness analysis and signal-processing components.
+
+My academic motto is: **“Make contribution to the community.”** For me, this means helping build a world where **knowledge circulates freely and empowers more people**.
+
+During my undergraduate years, I worked with my classmates, traveled to remote island schools to deliver hands-on chemistry outreach workshops. One of my proudest achievements is an experiment I designed that later:
+- became an official teaching module in XMU's organic chemistry laboratory curriculum (since 2023), and  
+- won 1st Prize in the National Undergraduate Chemistry Innovation Experiment Design Competition.
+In my master’s program, I serve as the **2024–2026 President of WISERCLUB**, one of the largest student-led data science organizations in China. During my term, I expanded interdisciplinary workshops, launched statistical literacy events, and connected hundreds of students with research-oriented learning opportunities.
+
+If you also care about outreach or want to bring scientific education to more communities, feel free to contact me.
 
 ---
 
 # Commitment to Community
 
-My academic motto is: **“Make contribution to the community.”**  
-For me, this means helping build a world where **knowledge circulates freely and empowers more people**.
+My academic motto is: **“Make contribution to the community.”** For me, this means helping build a world where **knowledge circulates freely and empowers more people**.
 
-During my undergraduate years, I traveled to remote island schools to deliver hands-on chemistry outreach workshops. One of my proudest achievements is an experiment I designed that later:
-
+During my undergraduate years, I worked with my classmates, traveled to remote island schools to deliver hands-on chemistry outreach workshops. One of my proudest achievements is an experiment I designed that later:
 - became an official teaching module in XMU's organic chemistry laboratory curriculum (since 2023), and  
-- won **First Prize** in the *National Undergraduate Chemistry Innovation Experiment Design Competition*.
-
+- won 1st Prize in the National Undergraduate Chemistry Innovation Experiment Design Competition.
 In my master’s program, I serve as the **2024–2026 President of WISERCLUB**, one of the largest student-led data science organizations in China. During my term, I expanded interdisciplinary workshops, launched statistical literacy events, and connected hundreds of students with research-oriented learning opportunities.
 
 If you also care about outreach or want to bring scientific education to more communities, feel free to contact me.
