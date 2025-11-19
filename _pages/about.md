@@ -17,27 +17,23 @@ I am currently pursuing an M.A. in Finance at the School of Economics, Xiamen Un
 
 My current research focuses on Portfolio Optimization, particularly distributional robustness and network-based covariance estimation. Beyond finance, I am deeply interested in **statistical structure learning** problems—such as mean field games, causal inference, graphical models, and optimal transport. I also enjoy applying statistical tools to interdisciplinary scientific problems including computational chemistry, neuroimaging, and astronomy. In Feb 2025, I collaborated with **Prof. Weitai Wu** on designing skin-attachable polymer microgel sensors, providing robustness analysis and signal-processing components.
 
-My academic motto is: **“Make contribution to the community.”** For me, this means helping build a world where **knowledge circulates freely and empowers more people**.
-
-During my undergraduate years, I worked with my classmates, traveled to remote island schools to deliver hands-on chemistry outreach workshops. One of my proudest achievements is an experiment I designed that later:
-- became an official teaching module in XMU's organic chemistry laboratory curriculum (since 2023), and  
-- won 1st Prize in the National Undergraduate Chemistry Innovation Experiment Design Competition.
-In my master’s program, I serve as the **2024–2026 President of WISERCLUB**, one of the largest student-led data science organizations in China. During my term, I expanded interdisciplinary workshops, launched statistical literacy events, and connected hundreds of students with research-oriented learning opportunities.
-
-If you also care about outreach or want to bring scientific education to more communities, feel free to contact me.
-
 ---
 
-# Commitment to Community
+# "Make Contribution to the Community"
+For me, this motto means helping build a world where **knowledge circulates freely and empowers more people**.
 
-My academic motto is: **“Make contribution to the community.”** For me, this means helping build a world where **knowledge circulates freely and empowers more people**.
+During my undergraduate years, I worked with my classmates and traveled to remote island schools to deliver hands-on chemistry outreach workshops. One of our most creative activities involved using **traditional Chinese knotting** to weave molecular structures—an approach that allowed students to visualize chemistry through an accessible cultural craft. You can see our works here: **[link]**.
 
-During my undergraduate years, I worked with my classmates, traveled to remote island schools to deliver hands-on chemistry outreach workshops. One of my proudest achievements is an experiment I designed that later:
-- became an official teaching module in XMU's organic chemistry laboratory curriculum (since 2023), and  
-- won 1st Prize in the National Undergraduate Chemistry Innovation Experiment Design Competition.
-In my master’s program, I serve as the **2024–2026 President of WISERCLUB**, one of the largest student-led data science organizations in China. During my term, I expanded interdisciplinary workshops, launched statistical literacy events, and connected hundreds of students with research-oriented learning opportunities.
+Another one of my proudest achievements is an experiment I designed on synthesizing a solvatochromic dye, a molecule that changes color in different solvents. This project later:
+- became an official teaching module in XMU’s organic chemistry laboratory curriculum (since 2023), and  
+- won **1st Prize** in the *National Undergraduate Chemistry Innovation Experiment Design Competition*.
 
-If you also care about outreach or want to bring scientific education to more communities, feel free to contact me.
+In my master’s program, I serve as the **2024–2026 President of WISERCLUB**, one of the largest student-led data science organizations in China. During my term, I expanded interdisciplinary workshops, launched statistical literacy initiatives, and connected hundreds of students with research-oriented learning opportunities.
+
+If you also care about outreach or hope to bring scientific education to more communities, feel free to contact me.
+
+
+
 
 ---
 
