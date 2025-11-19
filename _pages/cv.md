@@ -37,16 +37,16 @@ Education
   * Duties included: Tagging issues
   * Supervisor: Professor Git
    -->
-<!-- Skills
+Languages and Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+| **Category** | **Details** |
+|--------------|-------------|
+| **Programming** | Python · R · SQL · LaTeX · Markdown |
+| **Software & Tools** | VS Code · PyCharm · Docker · Cursor · Zotero · Gephi · CAD · Final Cut Pro |
+| **English Proficiency** | **TOEFL 103** (R30 / L27 / S22 / W24) <br> **GRE 332** (V162 / Q170 / AW3.5) |
+| **Personal Interests** | Classical Music · Museums · Fishing · Hiking · Paddle Boarding |
 
-Publications
+Publications and  Working Papers
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -64,7 +64,7 @@ Publications
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul> -->
   
-Teaching
+Teaching Experience
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
