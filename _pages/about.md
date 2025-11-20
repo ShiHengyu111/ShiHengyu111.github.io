@@ -19,14 +19,13 @@ My current research focuses on Portfolio Optimization, particularly distribution
 
 ---
 
-# Guidance
+# Guidance for the committee
 
-For the committee:  
 In addition to the publications and research projects listed in my CV and SOP, I would also like to share a few items that reflect my values, interests, and personal stories—elements that may help you form a more three-dimensional understanding of who I am.
 
 ## How I Practice My Motto: **["Make Contribution to the Community"](https://shihengyu111.github.io/posts/motto-0/)**
 
-- [Chemistry outreach at island elementary schools — teaching molecular structures through Chinese Knotting](https://shihengyu111.github.io/teaching/2022-08-ChineseKnotting-3)
+- [Chemistry outreach at island elementary schools - teaching molecular topology structures through **Traditional Chinese Knotting**](https://shihengyu111.github.io/teaching/2022-08-ChineseKnotting-3)
 
 - [Designing a solvatochromic dye experiment adopted into XMU’s official undergraduate lab curriculum](https://shihengyu111.github.io/publication/2024-07-25-BNOED-number-1)
 
