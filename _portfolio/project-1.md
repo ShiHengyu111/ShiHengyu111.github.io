@@ -1,5 +1,5 @@
 ---
-title: "Non-Parametric Statistical Inference of Polymer Microgel Sensors | Research Assistant"
+title: "Research Assistant about Non-Parametric Statistical Inference of Polymer Microgel Sensors"
 collection: portfolio
 permalink: /portfolio/RA_in_Chemistry
 excerpt: "Provided statistical signal processing and robustness analysis for a polymer microgel–based adhesion system designed for soft, skin-attachable sensors, applying filtering, stationary bootstrap, and nonparametric tests to validate reversible wet adhesion and stable motion-sensing performance reported in ACS Macro Letters.<br/><img src='../images/publication/Microgel-02.png' width='300'>"
