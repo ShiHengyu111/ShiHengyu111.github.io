@@ -1,7 +1,7 @@
 ---
 title: "TMFGL: A Topology-Guided Fused Graphical Lasso for Network-Aware Portfolio Optimization"
 collection: portfolio
-permalink: portfolio/2025-11-01-TMFGL-number-3
+permalink: /portfolio/2025-11-01-TMFGL-number-3
 excerpt: '展示摘要'
 date: 2025-11-01
 venue:  #'Journal 1'
