@@ -12,21 +12,31 @@ redirect_from:
 </p>
 
 # About Me
-
+ 
 I am currently pursuing an M.A. in Finance at the School of Economics, Xiamen University (expected graduation: June 2026), advised by **Prof. Xiaoling Mei**. Before transitioning to quantitative research, I completed my B.S. in Chemistry with an dual degree in Economics at Xiamen University in 2023.
 
 My current research focuses on Portfolio Optimization, particularly distributional robustness and network-based covariance estimation. Beyond finance, I am deeply interested in **statistical structure learning** problems—such as mean field games, causal inference, graphical models, and optimal transport. I also enjoy applying statistical tools to interdisciplinary scientific problems including computational chemistry, neuroimaging, and astronomy. In Feb 2025, I collaborated with **Prof. Weitai Wu** on designing skin-attachable polymer microgel sensors, providing robustness analysis and signal-processing components.
 
 ---
 
-# Recommended Highlights
-*(第二部分标题建议，下面会给你多个可选项)*
+# Guidance
 
-Coming soon …
+For the committee:  
+In addition to the publications and research projects listed in my CV and SOP, I would also like to share a few items that reflect my values, interests, and personal stories—elements that may help you form a more three-dimensional understanding of who I am.
 
+## How I Practice My Motto: **["Make Contribution to the Community"](https://shihengyu111.github.io/posts/motto-0/)**
 
+- [Chemistry outreach at island elementary schools — teaching molecular structures through Chinese Knotting](https://shihengyu111.github.io/teaching/2022-08-ChineseKnotting-3)
 
+- [Designing a solvatochromic dye experiment adopted into XMU’s official undergraduate lab curriculum](https://shihengyu111.github.io/publication/2024-07-25-BNOED-number-1)
 
+- [Open Courses: *Python for Beginners* and *Introduction to LLM*](https://shihengyu111.github.io/teaching/2024-05-Python-2)
+
+## Some Interdisciplinary Reflections
+
+- [Research Assistant on Non-Parametric Statistical Inference for Polymer Microgel Sensors](https://shihengyu111.github.io/portfolio/RA_in_Chemistry)
+
+- [Some Thoughts on Potential Future Breakthroughs in Chemistry](maybe in the future… I had a draft in my brain)
 
 
 
