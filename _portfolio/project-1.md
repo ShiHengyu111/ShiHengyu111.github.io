@@ -1,7 +1,7 @@
 ---
-title: "Tunable Wet Adhesion of Sprayable Microgel Glues Driven by a Phase Transition in Polymer Networks"
+title: "Non-Parametric Statistical Inference of Polymer Microgel Sensors | Research Assistant"
 collection: portfolio
-permalink: /portfolio/2025-05-08-MICROGEL-number-4
+permalink: /portfolio/RA_in_Chemistry
 excerpt: "Provided statistical signal processing and robustness analysis for a polymer microgel–based adhesion system designed for soft, skin-attachable sensors, applying filtering, stationary bootstrap, and nonparametric tests to validate reversible wet adhesion and stable motion-sensing performance reported in ACS Macro Letters.<br/><img src='../images/publication/Microgel-02.png' width='300'>"
 date: 2025-05-08
 venue: 'ACS Macro Letters'
