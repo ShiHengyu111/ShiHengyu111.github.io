@@ -37,50 +37,11 @@ In addition to the publications and research projects listed in my CV and SOP, I
 
 - [Some Thoughts on Potential Future Breakthroughs in Chemistry](maybe in the future… I had a draft in my brain)
 
+## Selected Reading (2025)
+
+I enjoy collecting and reading physical books, annotating them carefully with pencil as part of my process of organizing knowledge. During the Ph.D. application season—often characterized by cycles of submission and waiting—I find sustained reading to be a way to regain intellectual calm and depth. In an era of increasingly fragmented information, this practice has become especially important to me. 
+
+- [Some Books](https://shihengyu111.github.io//posts/Selected Reading in 2025/)
 
 
----
-
-# Selected Reading (2025)
-
-I enjoy collecting and reading physical books, annotating them carefully with pencil as part of my process of organizing knowledge. During the Ph.D. application season—often characterized by cycles of submission and waiting—I find sustained reading to be a way to regain intellectual calm and depth. In an era of increasingly fragmented information, this practice has become especially important to me.
-
-Below is a selection of books I have read or am currently reading this year, spanning academic research, social science, and literature.
-
-## Academic & Professional
-- *Sociology* (8th Edition)  
-  **Anthony Giddens & Philip W. Sutton**  
-  Polity Press, 2017.  
-
-- *High-Dimensional Statistics: A Non-Asymptotic Viewpoint*  
-  **Martin J. Wainwright**  
-  Cambridge University Press, 2019.  
-
-- *Probability, Random Variables, and Stochastic Processes* (4th Edition)  
-  **Athanasios Papoulis & S. Unnikrishna Pillai**  
-  McGraw-Hill, 2002.  
-
-- *Foundations and Applications of Complex Networks*  
-  **Jie Wu et al.**  
-  Elsevier / Academic Press, 2013.  
-
-- *Dive into Deep Learning*  
-  **Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola**  
-  Cambridge University Press, 2023.  
-
----
-
-## Social Science & Literature
-
-- *America Against America*  
-  **Wang Huning**  
-
-- *The Brothers Karamazov*  
-  **Fyodor Dostoevsky**  
-
-- *The Gadfly*  
-  **Ethel Lilian Voynich**  
-
-- *Call Me by Your Name*  
-  **André Aciman**  
 
