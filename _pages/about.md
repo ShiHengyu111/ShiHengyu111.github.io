@@ -27,25 +27,21 @@ Beyond the publications and research projects documented in my CV and Statement 
 In particular, sustained reading plays an important role in my intellectual life. In an era of increasingly fragmented information, I find that careful engagement with books helps me consolidate ideas, maintain depth of thinking, and regain intellectual calm during the Ph.D. application process.
 
 
-## Selected Reading (2025)
+## Selected Reading in 2025
 
-- [Some Books](https://shihengyu111.github.io/posts/Selected Reading in 2025/)
+- [Some Books](https://shihengyu111.github.io/posts/Selected_Reading_in_2025/)
 
+## Some Interdisciplinary Reflections
 
-## How I Practice My Motto: **["Make Contribution to the Community"](https://shihengyu111.github.io/posts/motto-0/)**
+- [RA | Non-Parametric Statistical Inference for Polymer Microgel Sensors](https://shihengyu111.github.io/portfolio/RA_in_Chemistry)
+
+## How I Practice My Motto: "Make Contribution to the Community"
 
 - [Chemistry outreach at island elementary schools - teaching molecular topology structures through **Traditional Chinese Knotting**](https://shihengyu111.github.io/teaching/2022-08-ChineseKnotting-3)
 
 - [Designing a solvatochromic dye experiment adopted into XMU’s official undergraduate lab curriculum](https://shihengyu111.github.io/publication/2024-07-25-BNOED-number-1)
 
 - [Open Courses: *Python for Beginners* and *Introduction to LLM*](https://shihengyu111.github.io/teaching/2024-05-Python-2)
-
-## Some Interdisciplinary Reflections
-
-- [Research Assistant on Non-Parametric Statistical Inference for Polymer Microgel Sensors](https://shihengyu111.github.io/portfolio/RA_in_Chemistry)
-
-- [Some Thoughts on Potential Future Breakthroughs in Chemistry](maybe in the future… I had a draft in my brain)
-
 
 
 
