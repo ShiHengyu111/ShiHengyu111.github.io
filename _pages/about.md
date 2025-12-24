@@ -21,7 +21,16 @@ My current research focuses on Portfolio Optimization, particularly distribution
 
 # Guidance for The Committee
 
-In addition to the publications and research projects listed in my CV and SOP, I would also like to share a few items that reflect my values, interests, and personal stories—elements that may help you form a more three-dimensional understanding of who I am.
+
+Beyond the publications and research projects documented in my CV and Statement of Purpose, I include the materials below to offer a more holistic view of my intellectual interests and values. These reflections—ranging from selected readings to community-oriented academic activities—represent how I engage with knowledge beyond formal research output.
+
+In particular, sustained reading plays an important role in my intellectual life. In an era of increasingly fragmented information, I find that careful engagement with books helps me consolidate ideas, maintain depth of thinking, and regain intellectual calm during the Ph.D. application process.
+
+
+## Selected Reading (2025)
+
+- [Some Books](https://shihengyu111.github.io/posts/Selected Reading in 2025/)
+
 
 ## How I Practice My Motto: **["Make Contribution to the Community"](https://shihengyu111.github.io/posts/motto-0/)**
 
@@ -37,11 +46,6 @@ In addition to the publications and research projects listed in my CV and SOP, I
 
 - [Some Thoughts on Potential Future Breakthroughs in Chemistry](maybe in the future… I had a draft in my brain)
 
-## Selected Reading (2025)
-
-I enjoy collecting and reading physical books, annotating them carefully with pencil as part of my process of organizing knowledge. During the Ph.D. application season—often characterized by cycles of submission and waiting—I find sustained reading to be a way to regain intellectual calm and depth. In an era of increasingly fragmented information, this practice has become especially important to me. 
-
-- [Some Books](https://shihengyu111.github.io//posts/Selected Reading in 2025/)
 
 
 
