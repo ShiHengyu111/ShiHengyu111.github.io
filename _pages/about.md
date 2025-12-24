@@ -13,13 +13,13 @@ redirect_from:
 
 # About Me
  
-I am currently pursuing an M.A. in Finance at the School of Economics, Xiamen University (expected graduation: June 2026), advised by **Prof. Xiaoling Mei**. Before transitioning to quantitative research, I completed my B.S. in Chemistry with an dual degree in Economics at Xiamen University in 2023.
+I am currently pursuing a M.Fin at the School of Economics, Xiamen University (expected graduation: June 2026), advised by Prof. Xiaoling Mei. Before transitioning to quantitative finance, I completed my B.S. in Chemistry with an dual degree in Economics at Xiamen University in 2023.
 
-My current research focuses on Portfolio Optimization, particularly distributional robustness and network-based covariance estimation. Beyond finance, I am deeply interested in **statistical structure learning** problems—such as mean field games, causal inference, graphical models, and optimal transport. I also enjoy applying statistical tools to interdisciplinary scientific problems including computational chemistry, neuroimaging, and astronomy. In Feb 2025, I collaborated with **Prof. Weitai Wu** on designing skin-attachable polymer microgel sensors, providing robustness analysis and signal-processing components.
+My current research focuses on Portfolio Optimization, particularly distributional robustness and network-based covariance estimation. Beyond finance, I am deeply interested in **statistical structure learning** problems—such as mean field games, causal inference, graphical models, and optimal transport. I also enjoy applying statistical tools to interdisciplinary scientific problems including computational chemistry, neuroimaging, and astronomy. In Feb 2025, I collaborated with Prof. Weitai Wu on designing skin-attachable polymer microgel sensors, providing robustness analysis and signal-processing components.
 
 ---
 
-# Guidance for the committee
+# Guidance for The Committee
 
 In addition to the publications and research projects listed in my CV and SOP, I would also like to share a few items that reflect my values, interests, and personal stories—elements that may help you form a more three-dimensional understanding of who I am.
 
@@ -39,46 +39,48 @@ In addition to the publications and research projects listed in my CV and SOP, I
 
 
 
+---
 
+# Selected Reading (2025)
 
-<!-- 
-<table>
-  <tr>
-    <td>
-   
-&emsp; My main research interest direction is data-driven analysis, starting from specific data tasks to explore effective models and theories. I hope to explore medical auxiliary diagnosis methods based on multimodal data and simpler and more efficient quantifiable analysis strategies through artificial intelligence technology. The main interest directions include **multimodal models** in the field of **machine learning**, **reinforcement learning**, and **causal inference** in the statistical direction.
+I enjoy collecting and reading physical books, annotating them carefully with pencil as part of my process of organizing knowledge. During the Ph.D. application season—often characterized by cycles of submission and waiting—I find sustained reading to be a way to regain intellectual calm and depth. In an era of increasingly fragmented information, this practice has become especially important to me.
 
-&emsp; I really like this short Latin proverb on the right. It is used as the background of my WeChat Moments and has inspired me through many difficult times. I think one day I will be able to find my own rhythm and calm down to do some **truly meaningful things**！
-    </td>
-    <td align="center">
-     <img src="https://github.com/user-attachments/assets/3cb18d53-5f69-4803-b6b2-8e33482efbe3" width="800px">
-    </td>
-  </tr>
-</table>
+Below is a selection of books I have read or am currently reading this year, spanning academic research, social science, and literature.
 
-As a rough self-introduction, the table of contents of the following content is as follows:
+## Academic & Professional
+- *Sociology* (8th Edition)  
+  **Anthony Giddens & Philip W. Sutton**  
+  Polity Press, 2017.  
 
-**1. [🫡Working Paper and Publication](#working-paper-and-publication)**
+- *High-Dimensional Statistics: A Non-Asymptotic Viewpoint*  
+  **Martin J. Wainwright**  
+  Cambridge University Press, 2019.  
 
-**2. [📝Course Project](#course-project)**
+- *Probability, Random Variables, and Stochastic Processes* (4th Edition)  
+  **Athanasios Papoulis & S. Unnikrishna Pillai**  
+  McGraw-Hill, 2002.  
 
+- *Foundations and Applications of Complex Networks*  
+  **Jie Wu et al.**  
+  Elsevier / Academic Press, 2013.  
 
-# 🫡Working Paper and Publication
+- *Dive into Deep Learning*  
+  **Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola**  
+  Cambridge University Press, 2023.  
 
-1. TMFGL
+---
 
-2. Distributionally Robust Portfolio Optimization with Wasserstein Distance
+## Social Science & Literature
 
-3. Microwave-Assisted Synthesis of Solvatochromic Dye and Analysis of Solvent Polarity in Undergraduate Organic Chemistry Laboratory
+- *America Against America*  
+  **Wang Huning**  
 
-# 📝Project
+- *The Brothers Karamazov*  
+  **Fyodor Dostoevsky**  
 
-1. 网络社区检测
+- *The Gadfly*  
+  **Ethel Lilian Voynich**  
 
-2. 全球资产组合
-
-3. 顾明投资组合 -->
-
-
-
+- *Call Me by Your Name*  
+  **André Aciman**  
 
