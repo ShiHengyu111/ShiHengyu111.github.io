@@ -33,7 +33,7 @@ In particular, sustained reading plays an important role in my intellectual life
 
 ## Some Interdisciplinary Reflections
 
-- [RA | Non-Parametric Statistical Inference for Polymer Microgel Sensors](https://shihengyu111.github.io/portfolio/RA_in_Chemistry)
+- [RA about Non-Parametric Statistical Inference for Polymer Microgel Sensors](https://shihengyu111.github.io/portfolio/RA_in_Chemistry)
 
 ## How I Practice My Motto: "Make Contribution to the Community"
 
